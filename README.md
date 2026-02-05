@@ -27,4 +27,17 @@
 * **Evidencias Técnicas:**
   * **Análisis de package.json:** ![PackageJson](https://github.com/user-attachments/assets/d8253579-175c-4fb3-b8a8-7195314ea1b0)
   * **Requisitos de Vacante:** ![Vacante](https://github.com/user-attachments/assets/2aadd721-9c82-40f6-8e63-4c47f86b8017)
+---
 
+## Resumen del Stack Tecnológico
+
+| Categoría | Herramienta Principal | Propósito en Supabase |
+| :--- | :--- | :--- |
+| **IDE** | VS Code | Desarrollo y estandarización de código. |
+| **Navegación** | Google Chrome | Pruebas de renderizado y rendimiento. |
+| **Versiones** | GitHub | Colaboración Open Source y control de cambios. |
+| **Diseño** | Figma | Prototipado y mantenimiento del sistema de diseño. |
+| **Lenguaje** | TypeScript | Programación segura con tipado fuerte. |
+| **Herramienta Base** | PostgreSQL | Corazón del sistema y gestión de bases de datos. |
+
+---
