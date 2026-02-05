@@ -7,7 +7,7 @@
 ## 2. Ecosistema de Navegación
 * **Navegadores:Google Chrome (DevTools) y Playwright** * *Justificación: Como su panel de administración (Dashboard) es una aplicación web compleja, usan Playwright para simular usuarios reales navegando en diferentes navegadores. Esto asegura que una actualización no rompa el acceso a la base de datos de los clientes.*
 
-##* 3. Gestión de Versiones
+## 3. Gestión de Versiones
 * **Plataforma: Git + GitHub** * *Justificación: Supabase es "Open Source first". GitHub no solo hospeda su código, sino que es su plataforma de colaboración masiva donde gestionan miles de Pull Requests y Issues de la comunidad global.*
 
 ## 4. Diseño UI/UX
@@ -17,4 +17,9 @@
 * **Lenguajes:TypeScript, SQL (PostgreSQL) y Go.** * *Herramienta Moderna:Next.js y Tailwind CSS.** **Justificacion: Usan TypeScript para tener un tipado fuerte que evite errores en su enorme base de código. Su corazón es PostgreSQL, aprovechando sus capacidades avanzadas para ofrecer bases de datos relacionales escalables como servicio.* ```
 
 <img width="662" height="467" alt="image" src="https://github.com/user-attachments/assets/076821cb-056b-4ab2-b9d8-0a5db8aba3ba" />
+
+## Repositorio de SupaBase (Package.json)
+<img width="1909" height="901" alt="image" src="https://github.com/user-attachments/assets/d8253579-175c-4fb3-b8a8-7195314ea1b0" />
+
+## Vacantes 
 
