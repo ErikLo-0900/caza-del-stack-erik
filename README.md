@@ -1,4 +1,4 @@
-# caza-del-stack-erik
+# caza-del-stack-SupaBase
 # Reporte de Investigación: Supabase
 
 ## 1. Entorno de Edición (IDE)
